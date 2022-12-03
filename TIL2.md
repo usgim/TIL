@@ -20,7 +20,6 @@ gohome = np1.reshape(2, 4)
 
 df = pd.DataFrame(gohome, columns= ['0','1','2','3'])
 
-df
 # columns도 이름 설정 따로 하지 않으면 0,1,2,3인가보다.
 
 
